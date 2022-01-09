@@ -504,4 +504,8 @@ form textarea{
     .about-text{
         margin-top: 1rem;
     }
+    .about-img{
+        width: 200px;
+        height: 260px;
+    }
 }
