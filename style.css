@@ -260,13 +260,16 @@ header .navbar a:hover{
 }
 
 .html-bar{
-    width: 100%;
+    width: 80%;
 }
 .css-bar{
-    width: 100%;
+    width: 70%;
 }
 .js-bar{
-    width: 100%;
+    width: 30%;
+}
+.git-bar{
+    width: 20%;
 }
 .ux-bar{
     width: 100%;
